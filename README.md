@@ -1,4 +1,4 @@
-# [:computer: os222 — Operating Systems — 2022-2 :computer:](https://raniaarn.github.io/os222/)
+# [os222 — Operating Systems — 2022-2](https://raniaarn.github.io/os222/)
 ## by Rania
 Welcome to Rania Maharani Narendra's GitHub Page for OS 2022-2!
 
