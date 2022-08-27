@@ -1,6 +1,6 @@
 # [os222 — Operating Systems — 2022-2](https://raniaarn.github.io/os222/)
-```diff 
-## @@by Rania 💻@@
+##```diff 
+@@ by Rania 💻 @@
 ```
 Welcome to Rania Maharani Narendra's GitHub Page for OS 2022-2!
 
