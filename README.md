@@ -1,8 +1,5 @@
 # [Operating Systems — 2022-2](https://raniaarn.github.io/os222/)
-
-<br><br>
 <span style="color:RED; font-weight:bold;">by Rania 💻</span>
-<hr>
 
 Rania Maharani Narendra's Repository for OS 2022-2! (Odd semester 2022/2023)
 
