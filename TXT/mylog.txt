@@ -5,5 +5,6 @@ ZCZC W00 20 L00 General
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 60 L09 Assignment #00
-ZCZC W00 90 L02 ZOOM meetings
+ZCZC W00 60 L09 Assignment in General
+ZCZC W00 10 L03 Update README
+ZCZC W00 90 L02 ZOOM meetings (tuesday class)
