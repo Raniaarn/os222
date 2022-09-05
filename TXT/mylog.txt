@@ -9,3 +9,5 @@ ZCZC W00 60 L09 Assignment in General
 ZCZC W00 10 L03 Update README
 ZCZC W00 90 L02 ZOOM meetings (tuesday class)
 ZCZC W00 90 L02 ZOOM meetings (thursday class)
+ZCZC W00 70 L06 Studying references (MIDTEM W00, GSGS, OS Book) 
+ZCZC W00 03 L05 Quiz Week00
