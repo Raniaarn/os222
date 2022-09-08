@@ -11,3 +11,6 @@ ZCZC W00 90 L02 ZOOM meetings (tuesday class)
 ZCZC W00 90 L02 ZOOM meetings (thursday class)
 ZCZC W00 70 L06 Studying references (MIDTEM W00, GSGS, OS Book) 
 ZCZC W00 03 L05 Quiz Week00
+
+ZCZC W01 90 L02 ZOOM meetings (tuesday class)
+ZCZC W01 90 L02 ZOOM meetings (thursday class)
