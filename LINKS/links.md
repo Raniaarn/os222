@@ -20,7 +20,6 @@ A video from neso academy on youtube. Through this video, i became more aware of
 [2. Regular Expression Basics](https://youtu.be/KJG1dETacLI)
 
 Video from Jason Wertz on Youtube about Regular expression's basics and examples. I like the video because the tutorial were clear and concise so it is easy to understand. 
-
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
