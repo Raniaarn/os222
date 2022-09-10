@@ -6,7 +6,6 @@
 [TARBALL]({{ site.tblink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
-<hr>
 
 Welcome to Rania's GitHub Page for Operating System Course!
 
