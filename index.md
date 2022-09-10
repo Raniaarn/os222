@@ -9,8 +9,8 @@
 
 Welcome to Rania's GitHub Page for Operating System Course!
 
----
-
-© 2022 — Rania.
-
----
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
