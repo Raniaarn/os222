@@ -12,8 +12,6 @@ permalink: LINKS/
 
 # LINKS
 
----
-
 ## Week 01
 [1. Introduction to Operating System](https://youtu.be/vBURTt97EkA)
 
