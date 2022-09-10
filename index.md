@@ -8,7 +8,6 @@
 <br>
 
 Welcome to Rania's GitHub Page for Operating System Course!
-
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
