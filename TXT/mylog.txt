@@ -13,4 +13,9 @@ ZCZC W00 70 L06 Studying references (MIDTEM W00, GSGS, OS Book)
 ZCZC W00 03 L05 Quiz Week00
 
 ZCZC W01 90 L02 ZOOM meetings (tuesday class)
+ZCZC W01 60 L09 Assignment in General
 ZCZC W01 90 L02 ZOOM meetings (thursday class)
+ZCZC W01 60 L06 Studying references (MIDTEM W01, GSGS, OS Book)
+ZCZC W01 03 L05 Quiz Week01
+ZCZC W01 30 L03 GitHub related
+ZCZC W01 60 L04 GitHub Pages related
