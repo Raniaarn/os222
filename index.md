@@ -1,7 +1,19 @@
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[Home](https://raniaarn.github.io/os222/) ---
-[Log](https://raniaarn.github.io/os222/TXT/mylog.txt) ---
-[GitHub](https://github.com/Raniaarn/) ---
-[LINKS](https://github.com/Raniaarn/LINKS/)
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL]({{ site.tblink }}) ---
+[GITHUB]({{ site.githublink }})
 <br>
+<hr>
 
+---
+
+Welcome to Rania's GitHub Page for Operating System Course!
+
+---
+
+© 2022 — Rania.
+
+---
