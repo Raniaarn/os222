@@ -2,7 +2,7 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{site.loglink}})
+[LOG]({{ site.baseurl }}{{site.loglink}}) ---
 [TARBALL]({{ site.tblink}}) ---
 [GITHUB]({{ site.githublink}})
 <br>
