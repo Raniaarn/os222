@@ -14,6 +14,7 @@ permalink: LINKS/
 
 ## Week 01
 [1. Introduction to Operating System](https://youtu.be/vBURTt97EkA)
+
 A video from neso academy on youtube. Through this video, i became more aware of what an operating system is. This video also gave types of OS, the functions of OS, and goals of OS. I like how the creator explained it.
 
 [2. Regular Expression Basics](https://youtu.be/KJG1dETacLI)
