@@ -30,7 +30,7 @@ This webpage lists a few important shortcut commands in Vi, including copy, cut,
 
 A few C Programming Language's syntax that help mestudy and practice solving problems using C Language. This link contains a lot of information from the basics, data types, to misc.
 
-[2. Protection and Security in Operating System] (https://www.youtube.com/watch?v=DKb7KhfoZmU)
+[2. Protection and Security in Operating System](https://www.youtube.com/watch?v=DKb7KhfoZmU)
 
 The creator explains about protection and security in informative and concise way. He used the OS Book so i can understand the book much easier. I like the way he explained the materials.
 
