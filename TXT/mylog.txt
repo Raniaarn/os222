@@ -23,9 +23,11 @@ ZCZC W01 20 L31 VirtualBox related
 
 ZCZC W02 90 L02 ZOOM meetings (tuesday class)
 ZCZC W02 90 L02 ZOOM Meetings (thursday class)
-ZCZC W02 200 L11 Assignment #01
+ZCZC W02 220 L11 Assignment #01
 ZCZC W02 20 L12 Assignment #02
 ZCZC W02 30 L13 Assignment #03
+ZCZC W02 30 L26 C-language
+ZCZC W02 30 L32 YouTube: study regex, bash, awk
 ZCZC W02 10 L14 Assignment #04
 ZCZC W02 10 L15 Assignment #05
 ZCZC W02 03 L05 Quiz Week02
@@ -34,4 +36,4 @@ ZCZC W02 20 L40 TXT/ related
 ZCZC W02 60 L06 Reading OS Book ch16 and 17
 ZCZC W02 20 L08 discuss weekly assignment with friend
 ZCZC W02 30 L07 Demo Related
- 
+ZCZC W02 30 L04 GitHub Pages related
