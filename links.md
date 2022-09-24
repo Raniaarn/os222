@@ -35,6 +35,20 @@ A few C Programming Language's syntax that help mestudy and practice solving pro
 
 The creator explains about protection and security in informative and concise way. He used the OS Book so i can understand the book much easier. I like the way he explained the materials.
 
+## Week 03
+[1. File System in Operating System](https://youtu.be/0LtuQhNFFe0)
+
+This video gives explanation on the basics information of file system in operating system. The video added subtitles so we can understand the content better, it is also very well explained.
+
+[2. Allocation Methods](https://www.youtube.com/watch?v=B1_er2nGKao)
+
+Explains about allocating files in storage stucture, the content is from the OS book so it helps me understanding files allocation better.
+
+[3. Encryption and public keys](https://youtu.be/6-JjHa-qLPk)
+
+This video explains cryptography allows for the secure transfer of data online so  well. This video also  explains 256-bit encryption, public and private keys, SSL & TLS and HTTPS. 
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
