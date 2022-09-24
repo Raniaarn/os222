@@ -37,3 +37,17 @@ ZCZC W02 60 L06 Reading OS Book ch16 and 17
 ZCZC W02 20 L08 discuss weekly assignment with friend
 ZCZC W02 30 L07 Demo Related
 ZCZC W02 30 L04 GitHub Pages related
+
+ZCZC W03 90 L02 ZOOM meetings (tuesday class)
+ZCZC W03 90 L99 Face-to-face lecture (thursday class)
+ZCZC W03 50 L32 Youtube: File systems, allocation files
+ZCZC W03 120 L06 Reading OS Book ch13, ch14, ch15
+ZCZC W02 10 L05 Quiz 02 Week03
+ZCZC W03 03 L05 Quiz 01 Week03 
+ZCZC W03 220 L11 Assignment #01
+ZCZC W03 20 L07 Demo Related
+ZCZC W03 20 L08 Discuss Weekly Assignment with friends
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 30 L04 GitHub Pages related
+
