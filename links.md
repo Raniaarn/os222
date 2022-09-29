@@ -48,6 +48,14 @@ Explains about allocating files in storage stucture, the content is from the OS 
 
 This video explains cryptography allows for the secure transfer of data online so  well. This video also  explains 256-bit encryption, public and private keys, SSL & TLS and HTTPS. 
 
+## Week 04
+[1. C printf format reference](https://alvinalexander.com/programming/printf-format-cheat-sheet/)
+
+This website helps me understand printf string formatting syntax in C. It also gives example and present it with tables so it is eady to read and understand.
+
+[2. Instructions in C/C++](https://youtu.be/zuegQmMdy8M)
+
+This video gave explanation on C language basics, especially the pointer and address of a variable.
 
 <br>
 <hr>
