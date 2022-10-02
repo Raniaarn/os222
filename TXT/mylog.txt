@@ -56,3 +56,10 @@ ZCZC W04 220 L11 Assignment #01
 ZCZC W04 10 L12 Assignment #02
 ZCZC W04 90 L32 Youtube: watching instructions videos of C, pointers, esc
 ZCZC W04 05 L05 Quiz 02 Week03
+ZCZC W04 30 L13 Assignment #03
+ZCZC W04 90 L99 Face-to-face lecture (thursday class)
+ZCZC W04 20 L07 Demo Related
+ZCZC W04 20 L08 Discuss Weekly Assignnment with friends
+ZCZC W04 120 L06 Reading OS Book ch9
+ZCZC W04 03 L05 Quiz 01 Week03
+ZCZC W04 20 L40 TXT/ related
