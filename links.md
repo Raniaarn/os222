@@ -57,6 +57,13 @@ This website helps me understand printf string formatting syntax in C. It also g
 
 This video gave explanation on C language basics, especially the pointer and address of a variable.
 
+## Week 05
+[1. Virtual Memory: What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8)
+Lecture by David Black-Schaffer all about virtual memory. His explanations are simple to understand and clear. He also gave segmen so we can easily find the subtopic of Virtual Memory easily.
+
+[2. Page Replacement Algorithms](https://youtu.be/16kaPQtYo28)
+A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-in-First-Out),LRU(Last Recently Used), and Optimal Page Replacement. This video helps me understanding page replacement more easily.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
