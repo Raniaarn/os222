@@ -64,6 +64,13 @@ Lecture by David Black-Schaffer all about virtual memory. His explanations are s
 [2. Page Replacement Algorithms](https://youtu.be/16kaPQtYo28)
 A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-in-First-Out),LRU(Last Recently Used), and Optimal Page Replacement. This video helps me understanding page replacement more easily.
 
+## Week 06
+[1.Process Management (Process and Threads)](https://youtu.be/OrM7nZcxXZU)
+A video from Neso Academy about Process Management. This video is very helpful to me for understanding about process management. It explained the concept extremely well!
+
+[2. Fork()](https://www.geeksforgeeks.org/fork-system-call/)
+Geeks for geeks to the rescue! this website helps a lot when it comes to understanding codes, in this case, this article helped me understanding about fork() in C language.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
