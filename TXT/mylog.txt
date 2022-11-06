@@ -77,3 +77,16 @@ ZCZC W05 90 L06 Reading OS Book ch10
 ZCZC W05 03 L05 Quiz 01 Week05
 ZCZC W05 30 L14 Assignment #04
 ZCZC W05 30 L15 Assignment #05
+
+ZCZC W06 90 L02 ZOOM meeting (tuesday class)
+ZCZC W06 240 L11 Assignment #01
+ZCZC W06 10 L12 Assignment #02
+ZCZC W06 90 L32 Youtube: Process Management
+ZCZC W06 05 L05 Quiz 02 Week06
+ZCZC W06 30 L13 Assingment #03
+ZCZC W06 90 L99 Face-to-face Lecture (thursday class)
+ZCZC W06 20 L07 Demo Related
+ZCZC W06 20 L08 DIscuss Weekly Assignment with friends
+ZCZC W06 90 L06 Reading OS Book ch3 and ch4
+ZCZC W06 03 L05 Quiz 01 Week06
+ZCZC W06 35 L14 Assignment #04
