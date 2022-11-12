@@ -90,3 +90,16 @@ ZCZC W06 20 L08 DIscuss Weekly Assignment with friends
 ZCZC W06 90 L06 Reading OS Book ch3 and ch4
 ZCZC W06 03 L05 Quiz 01 Week06
 ZCZC W06 35 L14 Assignment #04
+
+ZCZC W07 90 L02 ZOOM meeting (tuesday class)
+ZCZC W07 220 L11 Assignment #01
+ZCZC W07 10 L12 Assignment #02
+ZCZC W03 30 L13 Assingment #03
+ZCZC W07 90 L32 Youtube: synchronization and deadlocks
+ZCZC W07 05 Quiz 02 Week07
+ZCZC W07 90 L99 Face-to-face Lecture (thursday class)
+ZCZC W07 20 L07 Demo Related
+ZCZC W07 30 L08 Discuss Weekly Assignment with friends
+ZCZC W07 90 L06 Reading OS Book ch6,7,8
+ZCZC W07 03 L05 Quiz 01 Week06
+ZCZC W07 45 L14 Assignment #04

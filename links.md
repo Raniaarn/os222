@@ -71,6 +71,13 @@ A video from Neso Academy about Process Management. This video is very helpful t
 [2. Fork()](https://www.geeksforgeeks.org/fork-system-call/)
 Geeks for geeks to the rescue! this website helps a lot when it comes to understanding codes, in this case, this article helped me understanding about fork() in C language.
 
+## Week 07
+[1. Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Explanation of Deadlock, also comes with a video to understand it better. This article also gives exercise to help you understand it better, cool!
+
+[2. Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+A video from Neso Academy about process synchronization. Helps me understanding the concept and basics of synchronization.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
