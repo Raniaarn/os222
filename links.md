@@ -78,6 +78,13 @@ Explanation of Deadlock, also comes with a video to understand it better. This a
 [2. Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
 A video from Neso Academy about process synchronization. Helps me understanding the concept and basics of synchronization.
 
+## Week 08
+[1. LFS mirror](https://mirrors.ustc.edu.cn/lfs/lfs-packages/11.2/)
+mirror links i use to download some package for LFS (if the main link not successs)
+
+[2.Linux SCP Command Explained: Securely Copy & Transfer Files](ristek.link/scpraniamn000)
+an article About scp command on linux. This helps me understand the command better.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

@@ -101,5 +101,15 @@ ZCZC W07 90 L99 Face-to-face Lecture (thursday class)
 ZCZC W07 20 L07 Demo Related
 ZCZC W07 30 L08 Discuss Weekly Assignment with friends
 ZCZC W07 90 L06 Reading OS Book ch6,7,8
-ZCZC W07 03 L05 Quiz 01 Week06
+ZCZC W07 03 L05 Quiz 01 Week07
 ZCZC W07 45 L14 Assignment #04
+
+ZCZC W08 90 l02 ZOOM meeting (tuesday class)
+ZCZC W08 220 L11 Assignment #01
+ZCZC W08 10 L12 Assignment #02
+ZCZC W08 480 L13 Assignment #03
+ZCZC W08 05 Quiz 02 Week08
+ZCZC W08 90 L99 Face-to-face Lecture (thursday class)
+ZCZC W08 60 L08 Discuss Weekly Assignment with friends
+ZCZC W08 03 Quiz 01 Week08
+ZCZC W08 45 L14 Assignment #04
